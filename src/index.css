@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: cornsilk;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#td1 {
+  border-radius: 25px;
+  border: 2px solid red;
+  padding: 15px;
+}
+
+#tdBoxOfc {
+  color: white;
+  background-color: red;
+}
+
+
+#table1 {
+  border: 0;
+}
+#table2{
+  background-color: aquamarine;
+}
+.buttonMore{
+  background-color: rgb(187, 51, 51);
+  color: white;
+  border-radius: 10px;
+  padding: 5px;
+}
+.movieModal{
+  background-color: rgb(245, 216, 206);
+  color: rgb(59, 4, 4);
+  border-radius: 20px;
+  padding: 20px;
+  border: 2px black solid;
+  width: 40%;
+}
+#btnClose{
+  background-color: rgb(187, 51, 51);
+  color: white;
+  border-radius: 10px;
+  padding: 5px;
+}
